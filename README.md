@@ -44,4 +44,11 @@
   <!-- Firebase -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
+# Reem Mustafa  
+
+👩‍💻 A passionate Frontend Developer from Egypt  
+  
+- 📫 Reach me at: **reemmusttaffa@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/reem-mustafaa/) | [GitHub](https://github.com/reemmustaffa)  
+
 
