@@ -1,5 +1,5 @@
-##Reem Mustafa Ahmed
-👩‍💻 A passionate Frontend Developer from Egypt 
+<h1>Reem Mustafa Ahmed</h1>
+<h3>👩‍💻 A passionate Frontend Developer from Egypt </h3>
 
 <p align="left">
   <!-- LinkedIn -->
@@ -22,7 +22,7 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40" width="40" />
   </a>
 </p>
-## 🛠️ Languages and Tools
+<h3>🛠️ Languages and Tools</h3>
 <p>
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -68,11 +68,6 @@
   <!-- Firebase -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
-# Reem Mustafa  
 
-👩‍💻 A passionate Frontend Developer from Egypt  
-  
-- 📫 Reach me at: **reemmusttaffa@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/reem-mustafaa/) | [GitHub](https://github.com/reemmustaffa)  
 
 
