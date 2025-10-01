@@ -1,7 +1,9 @@
-<div align="center">
+
 <h1 align="center">Hi 👋, I'm Reem Mustafa</h1>
 <h3 align="center">A Passionate Front-End Developer from Egypt</h3>
 
+<p>🌱 I’m currently learning </p>
+<p>📫 How to reach me  **reemmusttaffa@gmail.com**</p>
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/reem-mustafaa/" target="_blank">
@@ -70,6 +72,3 @@
 </p>
 
 
-
-
-</div>
