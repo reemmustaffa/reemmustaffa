@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reem Mustafa</h1>
 <h3 align="center">A Passionate Front-End Developer from Egypt</h3>
 
-<p>🌱 I’m currently learning </p>
+<p>🌱 I’m currently learning Front End Development </p>
 <p>📫 How to reach me <a href="mailto:reemmusttaffa@gmail.com" target="_blank">reemmusttaffa@gmail.com</a> </p>
   
     
