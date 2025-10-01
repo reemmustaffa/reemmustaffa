@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Reem Mustafa Ahmed</h1>
-<h3>👩‍💻 A passionate Frontend Developer from Egypt </h3>
+<h1 align="center">Hi 👋, I'm Reem Mustafa</h1>
+<h3 align="center">A Passionate Front-End Developer from Egypt</h3>
 
-<p align="left">
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/reem-mustafaa/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
