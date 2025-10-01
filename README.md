@@ -3,7 +3,9 @@
 <h3 align="center">A Passionate Front-End Developer from Egypt</h3>
 
 <p>🌱 I’m currently learning </p>
-<p>📫 How to reach me  **reemmusttaffa@gmail.com**</p>
+<p>📫 How to reach me <a href="mailto:reemmusttaffa@gmail.com" target="_blank">reemmusttaffa@gmail.com</a> </p>
+  
+    
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/reem-mustafaa/" target="_blank">
