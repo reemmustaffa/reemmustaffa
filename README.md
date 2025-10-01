@@ -6,7 +6,7 @@
 <p>📫 How to reach me <a href="mailto:reemmusttaffa@gmail.com" target="_blank">reemmusttaffa@gmail.com</a> </p>
   
     
-<p align="center">
+<p align="right">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/reem-mustafaa/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
