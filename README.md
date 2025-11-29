@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm Reem Mustafa</h1>
 <h3 align="center">A Passionate Front-End Developer from Egypt</h3>
 
-<p>🌱 I’m currently learning Front End Development </p>
-<p>📫 How to reach me <a href="mailto:reemmusttaffa@gmail.com" target="_blank">reemmusttaffa@gmail.com</a> </p>
+🌱 I’m currently learning Front End Development  
+📫 How to reach me: [reemmusttaffa@gmail.com](mailto:reemmusttaffa@gmail.com)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reemmustaffa&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
 ## TECH STACK:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemmustaffa&layout=compact&theme=dark)
   
