@@ -4,6 +4,10 @@
 
 <p>🌱 I’m currently learning Front End Development </p>
 <p>📫 How to reach me <a href="mailto:reemmusttaffa@gmail.com" target="_blank">reemmusttaffa@gmail.com</a> </p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reemmustaffa&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+## TECH STACK:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemmustaffa&layout=compact&theme=dark)
   
     
 <p align="left">
