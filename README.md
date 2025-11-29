@@ -8,28 +8,21 @@
 ![](https://github-readme-stats.vercel.app/api?username=reemmustaffa&theme=dracula&hide_border=false)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=reemmustaffa&theme=tokyonight&hide_border=false)<br>
 
-
-<p align="left">
-  <!-- LinkedIn -->
+<p>
   <a href="https://www.linkedin.com/in/reem-mustafaa/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <!-- GitHub -->
   <a href="https://github.com/reemmustaffa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  
-  <!-- Email -->
   <a href="mailto:reemmusttaffa@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
-  <!-- Facebook -->
   <a href="https://www.facebook.com/reem.mustafa.760437/?_rdc=1&_rdr" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
 <h3>🛠️ Languages and Tools</h3>
 <p>
   <!-- JavaScript -->
