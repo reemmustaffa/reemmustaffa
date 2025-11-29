@@ -5,18 +5,10 @@
 🌱 I’m currently learning Front End Development  
 📫 How to reach me: [reemmusttaffa@gmail.com](mailto:reemmusttaffa@gmail.com)
 
-
-
-
-
 ![](https://github-readme-stats.vercel.app/api?username=reemmustaffa&theme=dracula&hide_border=false)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=reemmustaffa&theme=tokyonight&hide_border=false)<br>
 
-## TECH STACK:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemmustaffa&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reemmustaffa&show_icons=true&locale=en&layout=compact" alt="reemmustaffa" /></p>
 
 <p align="left">
   <!-- LinkedIn -->
