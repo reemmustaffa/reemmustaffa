@@ -8,7 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=reemmustaffa&theme=dracula&hide_border=false)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=reemmustaffa&theme=tokyonight&hide_border=false)<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reemmustaffa&show_icons=true&locale=en&layout=compact" alt="reemmustaffa" /></p>
 
 <p align="left">
   <!-- LinkedIn -->
