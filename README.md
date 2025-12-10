@@ -5,9 +5,6 @@
 🌱 I’m currently learning Front End Development  
 📫 How to reach me: [reemmusttaffa@gmail.com](mailto:reemmusttaffa@gmail.com)
 
-![](https://github-readme-stats.vercel.app/api?username=reemmustaffa&theme=dracula&hide_border=false)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=reemmustaffa&theme=tokyonight&hide_border=false)<br>
-
 <p>
   <a href="https://www.linkedin.com/in/reem-mustafaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,6 +19,10 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=reemmustaffa&theme=dracula&hide_border=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=reemmustaffa&theme=tokyonight&hide_border=false)<br>
+
 
 <h3>🛠️ Languages and Tools</h3>
 <p>
