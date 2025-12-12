@@ -20,7 +20,7 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=reemmustaffa&theme=dracula&hide_border=false)<br>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=reemmustaffa&theme=tokyonight&hide_border=false)<br>
 
 
