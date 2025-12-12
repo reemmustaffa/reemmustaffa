@@ -22,7 +22,7 @@
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=reemmustaffa&theme=tokyonight&hide_border=false)<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reemmustaffa&show_icons=true&locale=en&layout=compact" alt="boshraemad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reemmustaffa&show_icons=true&locale=en&layout=compact" alt="reemmustaffa" /></p>
 
 
 <h3>🛠️ Languages and Tools</h3>
